@@ -6,12 +6,12 @@ export default function Portfolio() {
     return (
         <section>
         <div className="projects">
-        <Project title="BC Music Generator" gitHub="https://github.com/Sabrina-Nawaz/music-generator-" url="https://bc-music-generator.herokuapp.com/" imgUrl="/assets/music-generator.png"/>
-        <Project title="Weather Dashboard" gitHub="https://github.com/Sabrina-Nawaz/weather-dashboard" url="https://sabrina-nawaz.github.io/weather-dashboard/" imgUrl="/assets/weather-app.png"/>
-        <Project title="Work Day Scheduler" gitHub="https://github.com/Sabrina-Nawaz/work-day-scheduler" url="https://sabrina-nawaz.github.io/work-day-scheduler/" imgUrl="/assets/workday-scheduler.png"/>
-        <Project title="Code Quiz" gitHub="https://github.com/Sabrina-Nawaz/code-quiz" url="https://sabrina-nawaz.github.io/code-quiz/" imgUrl="/assets/code-quiz.png"/>
-        <Project title="Custom Fit" gitHub="https://github.com/bleachevil/Project1-WorkoutLinks" url="https://bleachevil.github.io/Project1-Workout/index.html" imgUrl="/assets/customfit.png"/>
-        <Project title="Password Generator" gitHub="https://github.com/Sabrina-Nawaz/password-generator" url="https://sabrina-nawaz.github.io/password-generator/" imgUrl="/assets/password.png"/>
+        <Project title="Mini Games" gitHub="https://github.com/NebiatHNana/team-5" imgUrl="/assets/minigames.jpeg"/>
+        <Project title="Weather Dashboard" gitHub="https://github.com/NebiatHNana/weather-dashboard" url="https://nebiathnana.github.io/weather-dashboard/" imgUrl="/assets/weather-app.png"/>
+        <Project title="Work Day Scheduler" gitHub="https://github.com/NebiatHNana/workday-scheduler" url="https://nebiathnana.github.io/workday-scheduler/" imgUrl="/assets/workday-scheduler.png"/>
+        <Project title="Code Quiz" gitHub="https://github.com/NebiatHNana/timed-quiz" url="https://nebiathnana.github.io/timed-quiz/" imgUrl="/assets/code-quiz.png"/>
+        <Project title="Custom Fit" gitHub="https://github.com/NebiatHNana/team-5" url="https://jon-ledo.github.io/Collab-MiniGames-plusAPI/" imgUrl="/assets/customfit.png"/>
+        <Project title="Password Generator" gitHub="https://github.com/NebiatHNana/password-generator" url="https://nebiathnana.github.io/password-generator/" imgUrl="/assets/password.png"/>
         </div>
         </section>
     );
