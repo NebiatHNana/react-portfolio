@@ -4,7 +4,7 @@ import "./Home.css"
 function Home() {
     return (
         <section className="hero">
-        <img className="hero-img" src="/assets/IMG_2336 2.jpg" alt="Picture of Nebiat"/>
+        <img className="hero-img" src="/assets/NebiatHNana.jpg" alt="Picture of Nebiat"/>
         <div>
             <h2>Welcome to my portfolio!! </h2>
         </div>
