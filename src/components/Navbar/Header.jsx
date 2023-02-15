@@ -6,8 +6,8 @@ export default function Header() {
     return (
       <div>
       <header>
-      <h1>Sabrina Nawaz</h1>
-      <a href="/about"><img className="header-logo" src="/assets/logo.png" alt="Sabrina"/></a>
+      <h1>Nebiat Nana</h1>
+      <a href="/about"><img className="header-logo" src="/assets/logo.png" alt="Nebiat"/></a>
     
 <Navbar/>
   </header>

@@ -4,7 +4,7 @@ import "./Footer.css"
 function Footer() {
     return (
         <footer>
-        &copy; 2023 Sabrina Nawaz
+        &copy; Nebiat H Nana
     </footer>
     );
 }
