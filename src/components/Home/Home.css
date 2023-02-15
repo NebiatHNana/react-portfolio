@@ -1,0 +1,40 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(212, 225, 230);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0
+}
+
+.hero {
+    background-color: #fff;
+    min-height: 20vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    text-align: right;
+    background-image: url(../../../public/assets/gradienta-gwE9vXSi7Xw-unsplash.jpg);
+    background-size: 100% 100%;
+}
+
+.hero div h2 {
+    font-size: 45px;
+    background-color: rgb(120, 201, 215);
+    color: #424C58;
+}
+
+.hero img {
+    width: 200px;
+    height: 300px;
+    border-radius: 100px;
+    margin: 30px;
+
+}

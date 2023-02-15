@@ -1,0 +1,34 @@
+input {
+padding: 4px 8px;
+width: 100%;
+box-sizing: border-box;
+}
+
+button {
+padding: 4px 8px;
+background-color: rgb(237, 194, 221);
+color: black;
+border: 1px solid grey;
+width: 100%;
+}
+
+#contact {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 32px;
+
+}
+
+#contact > div {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: 100%
+}
+.error {
+    color:rgb(244, 101, 101)
+}
