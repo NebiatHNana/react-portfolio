@@ -83,7 +83,7 @@ To run your own version of the app do the following:
 
 ## Credits
 
-* Samdemarco
+* NebiatHmichael
 
 ## License
 
