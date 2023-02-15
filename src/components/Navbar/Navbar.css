@@ -1,7 +1,7 @@
 /*HEADER*/
 
 header {
-    background-color: #424C58;
+    background-color: rgb(112, 20, 87);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -9,8 +9,8 @@ header {
 }
 
 header h1 {
-    background-color: rgb(120, 201, 215);
-    color: #424C58;
+    background-color: rgb(112, 20, 87);
+    color: #cbd3dd;
 }
 
 header img {

@@ -6,11 +6,19 @@ function About() {
         <section id="about-me" className="side-bar">
         <h2>About Me</h2>
         <div className="about">
-            <p>My name is Sabrina and I live in Toronto, Canada. I am a well-rounded individual who enjoys fitness,
-                meditation,video games and music festivals. I have a background in administrative work in the legal
-                and HR world, however, I wanted a more meaningful impact in what I do, so now when I am not in front
-                of a barbell or spending time with my dog, I am working towards helping individuals and companies
-                make websites and applications for their services and products. </p>
+            <p> My name is Nebiat HaileMichael with +10 years experience in commercial 
+            aviation leadership, with track record achievement.
+            Passionate about Digital technology, Digital marketing, Fullstack web development
+            and Aviation industry.
+        </p>
+            <p>
+                My previous job required me to travel the world,
+            and I visited 22 countries in total. And, as Director
+            for Ethiopian Airlines, I spent three and four years in 
+            Paris and Qatar, respectively. I am currently expanding
+            my knowledge and skill on Computer science and Fullstack 
+            development and please check out my profile for more Information. 
+         </p>
         </div>
     </section>
         );  
